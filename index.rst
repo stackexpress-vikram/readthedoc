@@ -19,8 +19,8 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-$project
-========
+$project VIKRAM PRATAP SINGH
+============================
 
 $project will solve your problem of where to start with documentation,
 by providing a basic explanation of how to do it easily.
