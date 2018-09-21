@@ -12,7 +12,7 @@ Welcome to ReadTheDocs's documentation!
 
 
 
-Indices and tables
+Vikram Singh
 ==================
 
 * :ref:`genindex`
